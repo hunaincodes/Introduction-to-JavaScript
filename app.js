@@ -1,0 +1,15 @@
+var name = "codewithhunain";
+alert(name);
+console.log("Testing");
+console.log("123456788990");
+var n1 = 12;
+var n2 = 10;
+var n3 = 19;
+var total = n1 + n2 + n3;
+console.log(total); 
+console.log(2 + 3);
+console.log(3 + 7);
+var firstName = "Muhamad";
+var lastName = "Huanin";
+var result = firstName + lastName;
+console.log(firstName + ' ' + lastName);
